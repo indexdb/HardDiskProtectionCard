@@ -20,7 +20,7 @@ This project operated under both Chinese and English versions of DOS and the ear
 
 该项目可在中英文 DOS 及 Windows 初期系统下运行，大大减少了共用机房的维护工作。
 
-![硬件电路图](images/card5.jpg)
+![硬件电路图](images/card5.png)
 
 Dedicated to the passionate and inspiring spirit of the 1990s.
 
